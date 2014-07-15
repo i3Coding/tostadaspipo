@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: tostadaspipo
+Version: 0.1dev
+Summary: Ejemplo de conju
+Home-page: https://github.com/hellfish2/tostadaspipo
+Author: Carlos Malavé
+Author-email: hellfish2@gmail.com
+License: GPL 2v
+Description: Ejemplo de conjuntos de tostadas pipo, para demostrar como crear un paquete Egg Python
+Keywords: package python egg conjuntos tostadas pipo
+Platform: UNKNOWN

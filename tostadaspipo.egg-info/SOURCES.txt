@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+tostadaspipo/__init__.py
+tostadaspipo/main.py
+tostadaspipo.egg-info/PKG-INFO
+tostadaspipo.egg-info/SOURCES.txt
+tostadaspipo.egg-info/dependency_links.txt
+tostadaspipo.egg-info/entry_points.txt
+tostadaspipo.egg-info/top_level.txt
+tostadaspipo.egg-info/zip-safe

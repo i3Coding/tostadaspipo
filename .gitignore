@@ -1,0 +1,6 @@
+*~
+*~.pyc
+*.pyo
+*.egg-infono 
+build
+temp
